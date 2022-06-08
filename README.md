@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Course Code is on [Github](https://github.com/PacktPublishing/React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition).
+
 ## Available Scripts
 
 In the project directory, you can run:
